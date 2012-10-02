@@ -1,0 +1,1 @@
+<div class="footer">&copy; Applect Learning Systems Pvt. Ltd. &nbsp; </div>
